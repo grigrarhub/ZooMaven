@@ -1,10 +1,12 @@
+package strategy;
+
 import interfaces.Zooimpl;
 import animal.Animal;
 
 import java.util.ArrayList;
 import java.util.List;
 
-class ZooAdministration {
+public class ZooAdministration {
 
 
     List<Zooimpl> zoos = new ArrayList<>();

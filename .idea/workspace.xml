@@ -7,7 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WhNwjLVkLZwvZQDNeETX89etKT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +19,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -62,21 +67,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="278" key="GridCell.Tab.0.bottom" timestamp="1579598203563">
+    <state x="692" y="330" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1579599423049">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="278" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1579598203563" />
-    <state width="1874" height="278" key="GridCell.Tab.0.center" timestamp="1579598203563">
+    <state x="692" y="330" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1579599423049" />
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom" timestamp="1579599511711">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="278" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1579598203563" />
-    <state width="1874" height="278" key="GridCell.Tab.0.left" timestamp="1579598203562">
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1579599511711" />
+    <state width="1874" height="278" key="GridCell.Tab.0.center" timestamp="1579599511711">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="278" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1579598203562" />
-    <state width="1874" height="278" key="GridCell.Tab.0.right" timestamp="1579598203563">
+    <state width="1874" height="278" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1579599511711" />
+    <state width="1874" height="278" key="GridCell.Tab.0.left" timestamp="1579599511710">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="278" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1579598203563" />
+    <state width="1874" height="278" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1579599511710" />
+    <state width="1874" height="278" key="GridCell.Tab.0.right" timestamp="1579599511711">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1579599511711" />
   </component>
 </project>
