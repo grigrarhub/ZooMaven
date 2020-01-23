@@ -2,8 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7bdbade-d3b9-4926-9cfd-c0eba751b7e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Zoopark.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/snap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZooMaven.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ZooMaven.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ZooMaven/Zoo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ZooMaven/Zoopark.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ZooMaven/animal/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ZooMaven/animal/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ZooMaven/animal/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ZooMaven/interfaces/ZooAddStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ZooMaven/interfaces/Zooimpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ZooMaven/strategy/ZooAdministration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ZooMaven/strategy/ZooBirdStratagy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ZooMaven/strategy/ZooDogStratagy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zoo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Zoopark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zoo/service/ZooImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zoo/animal/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/animal/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zoo/animal/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/animal/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zoo/animal/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interfaces/ZooAddStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zoo/strategy/ZooAddStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interfaces/Zooimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zoo/service/Zoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/ZooAdministration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zoo/service/ZooAdministration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/ZooBirdStratagy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zoo/strategy/ZooBirdStratagy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/ZooDogStratagy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/zoo/strategy/ZooDogStratagy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,17 +48,24 @@
   <component name="ProjectId" id="1WhNwjLVkLZwvZQDNeETX89etKT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
-    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zoo" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.zoo.Main" />
       <module name="ZooMaven" />
       <extension name="coverage">
         <pattern>
@@ -45,9 +77,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="compile" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zoo" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -77,25 +135,73 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="555" y="214" width="847" height="677" key="#Project_Structure" timestamp="1579789552203">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="214" width="847" height="677" key="#Project_Structure/0.27.1920.1053@0.27.1920.1053" timestamp="1579789552203" />
+    <state x="555" y="214" width="800" height="677" key="#Web_Browsers" timestamp="1579613923292">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="214" width="800" height="677" key="#Web_Browsers/0.27.1920.1053@0.27.1920.1053" timestamp="1579613923292" />
+    <state x="418" y="210" width="1084" height="777" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579625277821">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="418" y="210" width="1084" height="777" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1579625277821" />
     <state x="692" y="330" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1579599423049">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="692" y="330" width="524" height="444" key="#com.intellij.ide.util.PackageChooserDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1579599423049" />
-    <state width="1874" height="278" key="GridCell.Tab.0.bottom" timestamp="1579599869158">
+    <state x="788" y="249" width="324" height="606" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1579600227504">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="278" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1579599869158" />
-    <state width="1874" height="278" key="GridCell.Tab.0.center" timestamp="1579599869157">
+    <state x="788" y="249" width="324" height="606" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1579600227504" />
+    <state x="538" y="480" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1579625817250">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="278" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1579599869157" />
-    <state width="1874" height="278" key="GridCell.Tab.0.left" timestamp="1579599869157">
+    <state x="538" y="480" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1579625817250" />
+    <state x="713" y="413" width="494" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579625960202">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="278" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1579599869157" />
-    <state width="1874" height="278" key="GridCell.Tab.0.right" timestamp="1579599869157">
+    <state x="713" y="413" width="494" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1920.1053@0.27.1920.1053" timestamp="1579625960202" />
+    <state x="688" y="310" width="524" height="484" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1579613845493">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1874" height="278" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1579599869157" />
+    <state x="688" y="310" width="524" height="484" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1579613845493" />
+    <state x="100" y="125" width="1720" height="855" key="DiffContextDialog" timestamp="1579618064360">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="100" y="125" width="1720" height="855" key="DiffContextDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1579618064360" />
+    <state x="738" y="310" width="735" height="484" key="FileChooserDialogImpl" timestamp="1579625189134">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="738" y="310" width="735" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1579625189134" />
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom" timestamp="1579789661482">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1579789661482" />
+    <state width="1874" height="278" key="GridCell.Tab.0.center" timestamp="1579789661481">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1579789661481" />
+    <state width="1874" height="278" key="GridCell.Tab.0.left" timestamp="1579789661480">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1579789661480" />
+    <state width="1874" height="278" key="GridCell.Tab.0.right" timestamp="1579789661482">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="278" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1579789661482" />
+    <state x="443" y="130" width="1024" height="845" key="SettingsEditor" timestamp="1579625374818">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="443" y="130" width="1024" height="845" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1579625374818" />
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1579786762800">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1579786762800" />
+    <state x="627" y="448" width="646" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579613844107">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="627" y="448" width="646" height="224" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.27.1920.1053@0.27.1920.1053" timestamp="1579613844107" />
   </component>
 </project>

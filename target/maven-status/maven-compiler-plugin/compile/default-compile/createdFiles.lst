@@ -1,0 +1,10 @@
+ru/zoo/Zoopark.class
+ru/zoo/strategy/ZooBirdStratagy.class
+ru/zoo/animal/Dog.class
+ru/zoo/animal/Animal.class
+ru/zoo/strategy/ZooDogStratagy.class
+ru/zoo/Zoo.class
+interfaces/ZooAddStrategy.class
+interfaces/Zooimpl.class
+ru/zoo/strategy/ZooAdministration.class
+ru/zoo/animal/Bird.class
