@@ -12,8 +12,8 @@ public class ZooBirdStratagy implements ZooAddStrategy {
         
         if(StringUtils.indexOf(animal.getName(), 'а')==0 ||
                 StringUtils.indexOf(animal.getName(), 'А')==0){
-        return animal instanceof Bird;
+            return animal instanceof Bird;
         }else
-          return false;
+            return false;
     }
 }
