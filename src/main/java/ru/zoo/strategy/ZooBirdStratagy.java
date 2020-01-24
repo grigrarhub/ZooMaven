@@ -10,8 +10,7 @@ public class ZooBirdStratagy implements ZooAddStrategy {
     @Override
     public boolean shouldAddAnimalToPark(Animal animal) {
 
-        if(StringUtils.left(animal.getName(),1).equals("а") ||
-                StringUtils.left(animal.getName(),1).equals("А")){
+        if(StringUtils.startsWithIgnoreCase(animal.getName(), "А")){
             return animal instanceof Bird;
         }else
             return false;
